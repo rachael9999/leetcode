@@ -9,7 +9,7 @@ module.exports = {
 
   title: "LeetCode-Offer",
   description: 'LeetCode + Offer = 💰',
-  // base: '/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/LeetCode-Offer/',
   markdown: {
     lineNumbers: true, // 代码行号
   },
