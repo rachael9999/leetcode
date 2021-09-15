@@ -5,8 +5,8 @@ module.exports = [
     text: '题解',
     link: '',
     items: [
-      { text: '数组', link: '/array/' },
-      { text: '链表', link: '/linkedlist/' }
+      { text: '数组', link: '/LeetCode-Offer/array/' },
+      { text: '链表', link: '/LeetCode-Offer/linkedlist/' }
     ]
   },
   { 

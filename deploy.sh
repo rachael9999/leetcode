@@ -18,7 +18,7 @@ if [ -z "$GITHUB_TOKEN" ]; then
   githubUrl=git@github.com:Veal98/LeetCode-Offer.git
 else
   msg='来自github actions的自动部署'
-  githubUrl=https://xugaoyi:${GITHUB_TOKEN}@github.com/xugaoyi/vuepress-theme-vdoing.git
+  githubUrl=https://Veal98:${GITHUB_TOKEN}@github.com:Veal98/LeetCode-Offer.git
   git config --global user.name "Veal98"
   git config --global user.email "1912420914@qq.com"
 fi
