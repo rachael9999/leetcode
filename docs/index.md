@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/web.png
+heroImage: /img/logo.png
 heroText: LeetCode-Offer
 tagline: LeetCode + Offer = 💰
 actionText: 开始刷题 !
@@ -12,48 +12,40 @@ postList: none
 ---
 
 
-## 关于
+## 关于刷题
 
-### 📚 Blog
-这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到[GitHub](https://github.com/xugaoyi/vuepress-theme-vdoing)点个Star、获取源码，或者交换[友链](/friends/) ( •̀ ω •́ )✧
+时代变了，疯狂内卷的大背景下，对算法的要求也越来越高，面试官扔上来的几道算法题做不出来基本上就挂了。**不刷题 = 没大厂 Offer**
 
-### 🎨 Theme
-本站主题是根据[VuePress](https://vuepress.vuejs.org/zh/)的默认主题修改而成。取名`Vdoing`(维度)，旨在轻松打造一个`结构化`与`碎片化`并存的个人在线知识库&博客，让你的知识海洋像一本本书一样清晰易读。配合多维索引，让每一个知识点都可以快速定位！ 更多[详情](https://github.com/xugaoyi/vuepress-theme-vdoing)。
+而像我这样的一个小垃圾，没多么出众，没打过什么比赛，平时学习也不是很努力，脑子也不怎么聪明，面试中没见过的题百分之八九十是做不出来的，所以呢，我就只能靠着多刷题多总结吧~
 
-<a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing' alt='GitHub stars' class="no-zoom"></a>
-<a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
+事实上，我之前刷题总是没有章法可循，非常容易半途而废，之前刷过左神的《程序员代码指南》，感觉体系不是很完善就中途做罢了，所以建立本仓库的初衷其实一部分也是想要督促自己能够每天更新。
 
-</br>
+不知道各位是不是和我一样，反正我不太喜欢那种无脑刷题的感觉，我得先过一遍理论知识或者整体的算法思想框架然后再开始对应的刷题，而不是上来就直接 Top100 之类的，我觉得这样不成体系，效果可能也不是太好。简单来说呢，我的刷题理念就是：**先理论后刷题，掌握算法思想后再有针对性地去刷经典题**。
 
+基于这样一个刷题理念，需要非常完善的知识体系，显然不是我当下能够具备的，所以，仓库中的这个刷题顺序并不是我自己琢磨出来的，参考了下面的很多大佬：
 
-## 特色功能
-博客部分特色功能介绍
+- [代码随想录](https://www.programmercarl.com/)，ACM 大佬，题目按照难易程度循序渐进，真的是宝藏大佬了，而且也非常符合我的刷题理念
 
-#### 一站式技术搜索
+站在众多大佬的肩膀上，结合《剑指 Offer》和其他资料，自己做了一些扩展和总结，总的来说会按照这样一个顺序：
 
-   博客内容中包含部分技术教程，可以利用搜索框快速搜索到相关文档，即使博客中没有的，你还可以选择最下方的 `在XXX中搜索“xxx”` 快速到达你想要找的内容。
+1. 先是数据结构强相关的
+- 数组
+- 链表
+- 哈希表
+- 字符串
+- 双指针法
+- 栈与队列
+- 二叉树
 
-#### 深色模式与阅读模式
-关爱程序员，保护视力，点击右下角的主题模式按钮试试吧~
+2. 然后是常见的算法思想
+- 回溯算法
+- 贪心算法
+- 动态规划
+- 单调栈
 
-#### Demo演示模块
-   为了更直观的展示一些代码的效果，博客添加了demo模块插件，可查看demo、源码，以及跳转到codepen在线编辑。**示例**：
+## 刷题小 Tip
 
-::: demo [vanilla]
-```html
-<html>
-  <div id="vanilla-box"></div>
-</html>
-<script>
-  var box = document.getElementById('vanilla-box')
-  box.innerHTML = 'Hello World! Welcome to EB'
-</script>
-<style>
-#vanilla-box {
-  color: #11a8cd;
-}
-</style>
-```
-:::
+大伙儿刷题的时候可以把收藏点起来，新建两个列表 A 和 B，刷过的题目全部放在列表 A 中，其中不会做的题目或者有一些小问题的题目放在另一个列表 B 里，二刷三刷的时候，会做的题目就从第二个列表 B 里面踢出去，这样会比较清晰。
 
-</br>  
+![](https://gitee.com/veal98/images/raw/master/img/20210916161507.png)
+
