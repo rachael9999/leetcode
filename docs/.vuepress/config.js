@@ -51,5 +51,26 @@ module.exports = {
     htmlModules // 插入hmtl(广告)模块
   },
   head,
-  plugins,
+  plugins: [
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        },
+      },
+    ],
+    [
+      'vuepress-plugin-zooming',
+      {
+        selector: '.my-wrapper .my-img',
+        delay: 1000,
+        options: {
+          bgColor: 'black',
+          zIndex: 10000,
+        },
+      },
+    ],
+  ],
 }
