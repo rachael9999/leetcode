@@ -6,7 +6,10 @@ module.exports = [
     link: '',
     items: [
       { text: '数组', link: '/array/' },
-      { text: '链表', link: '/linkedlist/' }
+      { text: '链表', link: '/linkedlist/' },
+      { text: '哈希表', link: '/hashtable/' },
+      { text: '链表', link: '/linkedlist/' },
+      { text: '二分查找', link: '/binarysearch/' }
     ]
   },
   { 
