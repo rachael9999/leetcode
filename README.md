@@ -1,3 +1,7 @@
+<div align = "center">
+    <h1>LeetCode-Offer</h1>
+</div
+>
 <p align="center">
     <img src="https://gitee.com/veal98/images/raw/master/img/20210916170312.png" >
 </p>
@@ -7,7 +11,6 @@
         <a href="#-关于我"><img src="https://img.shields.io/badge/公众号-飞天小牛肉-orange" alt="公众号"></a>
         <a href="#-刷题打卡"><img src="https://img.shields.io/badge/冲刺大厂-刷题打卡-brightgreen" alt="LeetCode-Offer"></a>
         <a href="https://gitee.com/veal98/Echo"><img src="https://img.shields.io/badge/备战校招-开源社区项目-blueviolet" alt="配套教程"></a>
-
     </p>
 </div>
 
