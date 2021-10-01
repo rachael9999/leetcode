@@ -75,23 +75,11 @@
 
 ## 🍭 刷题打卡
 
-[在 Gitee 仓库中新建一个 Issue](https://gitee.com/veal98/LeetCode-Offer/issues)，命名格式如下：`随便一个表情符号【昵称】打卡贴`
+下方扫码免费进入灯塔打卡小程序的学习小组，来比比到底谁更卷：
 
-<img width = 650px src = "https://gitee.com/veal98/images/raw/master/img/20210918151747.png"/>
+![](https://gitee.com/veal98/images/raw/master/img/20211001113803.png)
 
-如果你已经开始打卡，注意把状态修改为 `进行中`：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210918151923.png)
-
-每日刷题后直接在自己的 Issue 下评论打卡即可：
-
-<img width = 800px src = "https://gitee.com/veal98/images/raw/master/img/20210918151947.png"/>
-
-评论数量即代表你已经刷了多少天的题：
-
-<img width = 600px src = "https://gitee.com/veal98/images/raw/master/img/20210918152022.png"/>
-
-让评论区记录我们成长的脚步吧~
+![](https://gitee.com/veal98/images/raw/master/img/20211001113816.jpg)
 
 ## 🎓 关于我
 
