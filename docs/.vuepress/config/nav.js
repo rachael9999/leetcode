@@ -8,7 +8,8 @@ module.exports = [
       { text: '数组', link: '/array/' },
       { text: '链表', link: '/linkedlist/' },
       { text: '哈希表', link: '/hashtable/' },
-      { text: '链表', link: '/linkedlist/' },
+      { text: '字符串', link: '/kmp/' },
+      { text: '栈与队列', link: '/stackandqueue/' },
       { text: '二分查找', link: '/binarysearch/' },
       { text: '双指针法', link: '/doublepoints/' }
     ]

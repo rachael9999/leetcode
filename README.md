@@ -75,11 +75,13 @@
 
 ## 🍭 刷题打卡
 
-下方扫码免费进入灯塔打卡小程序的学习小组，来比比到底谁更卷：
+下方扫码关注公众号【飞天小牛肉】回复 `学习小组` 免费进入学习小组，连续打卡 21 天还能拿红包呀，已经有 100+ 小伙伴在这里啦，快加入我们吧
 
-![](https://gitee.com/veal98/images/raw/master/img/20211001113803.png)
+<img width = 240px src="https://gitee.com/veal98/images/raw/master/img/公众号二维码.png" />
 
-![](https://gitee.com/veal98/images/raw/master/img/20211001113816.jpg)
+学习小组截图示例
+
+<img width = 400px src="https://gitee.com/veal98/images/raw/master/img/20211001113816.jpg" />
 
 ## 🎓 关于我
 
